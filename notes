@@ -1,0 +1,21 @@
+Models:
+1. Users
+    - username
+    - password
+    - profile picture
+    - friends
+2. Posts
+    - content
+    - user
+    - date
+3. Comments
+    - content
+    - user
+    - post
+    - date
+4. Likes
+    - post
+    - user
+5. Friend Request
+    - userSend
+    - userReceive
